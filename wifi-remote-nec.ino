@@ -2,7 +2,7 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-#define IR_SEND_PIN 4  
+#define IR_SEND_PIN D4  
 
 // Wi-Fi credentials
 const char* ssid = "rik's wifi";
